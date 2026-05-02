@@ -13,4 +13,4 @@ A smart printing tool with duplex control and jam confirmation system.
 - SumatraPDF installed
 
 ## Usage
-Run the executable file from /dist folder.
+Run the main.py file after installing the SumatraPDF
